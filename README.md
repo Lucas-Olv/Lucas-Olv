@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Lucas Lopes de Oliveira!
+ <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
 - 💻 Pretendo trabalhar com desenvolvimento de aplicativos.
 - 🌱 Estou estudando Flutter e Dart
 - 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
