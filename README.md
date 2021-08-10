@@ -6,8 +6,8 @@
 
  <div>
   <a href="https://github.com/Lucas-Olv">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Olv&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Olv&layout=compact&langs_count=6&theme=onedark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Olv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Olv&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
