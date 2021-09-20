@@ -1,7 +1,7 @@
  <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
  
-- 💻 Pretendo trabalhar com desenvolvimento de aplicativos.
-- 🌱 Estou estudando Flutter e Dart
+- 💻 Pretendo trabalhar com desenvolvimento Web e desenvolvimento de aplicativos.
+- 🌱 Estou estudando desenvolvimento web front-end.
 - 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
 
  <div>
@@ -16,11 +16,10 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  
- </div>
+  <!--<img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+ </div>-->
  
 
 <!---
