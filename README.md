@@ -1,7 +1,7 @@
  <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
  
-- 💻 Pretendo trabalhar com desenvolvimento Web e desenvolvimento de aplicativos.
-- 🌱 Estou estudando desenvolvimento web full-stack com javascript e node.js.
+- 💻 Pretendo trabalhar com desenvolvimento de softwares e desenvolvimento de aplicativos.
+- 🌱 Estou estudando Java e flutter.
 - 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
 
  <div>
