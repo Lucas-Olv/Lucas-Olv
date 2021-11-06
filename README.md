@@ -1,7 +1,7 @@
  <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
  
 - 💻 Pretendo trabalhar com desenvolvimento de softwares e desenvolvimento de aplicativos.
-- 🌱 Estou estudando Java e Flutter.
+- 🌱 Estou estudando Vue.js.
 - 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
 
  <div>
@@ -15,7 +15,7 @@
  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
- <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ <!--<img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">-->
  <img align="center" alt="Lucas-Node-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
