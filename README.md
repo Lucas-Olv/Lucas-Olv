@@ -1,6 +1,6 @@
  <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
  
-- 💻 Pretendo trabalhar com desenvolvimento de aplicativos.
+- 💻 Desenvolvedor Front-end.
 - 🌱 Estou estudando Flutter.
 - 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
 
@@ -11,13 +11,16 @@
 </div>
 <div style="display: inline_block;">
  <br>
- <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
- <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+ 
  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
- <img align="center" alt="Lucas-Node-js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Lucas-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
  <img align="center" alt="Lucas-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+ <img align="center" alt="Lucas-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+ <img align="center" alt="Lucas-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+ 
  </div>
 
  <!---
