@@ -1,7 +1,7 @@
  <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
  
 - 💻 Desenvolvedor Front-end.
-- 🌱 Estou estudando Flutter.
+- 🌱 Estou estudando Angular.
 - 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
 
  <div>
@@ -20,6 +20,7 @@
  <img align="center" alt="Lucas-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
  <img align="center" alt="Lucas-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
  <img align="center" alt="Lucas-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" alt="Lucas-SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
  
  </div>
 
