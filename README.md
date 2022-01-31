@@ -1,8 +1,8 @@
- <h2>Olá, eu sou o Lucas Lopes de Oliveira!</h2>
+ <h2>Hi! I am Lucas Lopes de Oliveira!</h2>
  
-- 💻 Desenvolvedor Front-end.
-- 🌱 Estou estudando Angular.
-- 📫 Contate-me no e-mail: lucas.lopes6588@gmail.com
+- 💻 Front-end developer.
+- 🌱 Learning Angular.
+- 📫 Contact me on lucas.lopes6588@gmail.com.
 
  <div>
   <a href="https://github.com/Lucas-Olv">
