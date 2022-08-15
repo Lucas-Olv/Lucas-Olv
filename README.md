@@ -21,6 +21,7 @@
  <img align="center" alt="Lucas-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Lucas-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="Lucas-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
+ <img align="center" alt="Lucas-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
  
  </div>
 
