@@ -1,6 +1,6 @@
  <h2>Hi! I am Lucas Lopes de Oliveira!</h2>
  
-- 💻 Future Front-end development specialist.
+- 💻 Front-end developer.
 - 🌱 Learning hybrid apps with Ionic Angular.
 - 📫 Contact me on lucas.lopes6588@gmail.com.
 
@@ -15,9 +15,11 @@
  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
  <img align="center" alt="Lucas-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
+ <img align="center" alt="Lucas-ionic" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg">
  <img align="center" alt="Lucas-svelte" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg">
+ <img align="center" alt="Lucas-angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
  <img align="center" alt="Lucas-vuejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
- <img align="center" alt="Lucas-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+<!--  <img align="center" alt="Lucas-nextjs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"> -->
  <img align="center" alt="Lucas-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
  <img align="center" alt="Lucas-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
  </div>
