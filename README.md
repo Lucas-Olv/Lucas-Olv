@@ -1,7 +1,7 @@
  <h2>Hi! I am Lucas Lopes de Oliveira!</h2>
  
 - 💻 Future Front-end development specialist.
-- 🌱 Learning React with NEXT.js.
+- 🌱 Learning hybrid apps with Ionic Angular.
 - 📫 Contact me on lucas.lopes6588@gmail.com.
 
  <div>
