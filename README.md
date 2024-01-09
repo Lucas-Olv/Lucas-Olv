@@ -1,7 +1,7 @@
  <h2>Hi! I am Lucas Lopes de Oliveira!</h2>
  
 - 💻 Front-end developer.
-- 🌱 Learning hybrid apps with Ionic Angular.
+- 🌱 Learning hybrid apps with Ionic.
 - 📫 Contact me on lucas.lopes6588@gmail.com.
 
  <div>
